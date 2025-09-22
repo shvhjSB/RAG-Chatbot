@@ -1,0 +1,5 @@
+json
+transformers
+torch
+datasets
+streamlit
