@@ -1,0 +1,11 @@
+torch
+transformers
+peft
+accelerate
+bitsandbytes
+datasets
+sentencepiece
+streamlit
+GPUtil
+python-dotenv
+wandb
